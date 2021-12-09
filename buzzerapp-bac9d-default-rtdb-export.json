@@ -1,0 +1,20 @@
+{
+  "teams" : {
+    "blue" : {
+      "isBuzzerPressed" : false,
+      "timeStamp" : 0
+    },
+    "green" : {
+      "isBuzzerPressed" : true,
+      "timeStamp" : 0
+    },
+    "red" : {
+      "isBuzzerPressed" : false,
+      "timeStamp" : 0
+    },
+    "yellow" : {
+      "isBuzzerPressed" : true,
+      "timeStamp" : 0
+    }
+  }
+}
